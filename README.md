@@ -69,6 +69,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parag589/parag589/output/snake.svg" alt="Snake animation" />
 
-###
