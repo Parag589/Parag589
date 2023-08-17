@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"  />
+<img align="right" height="200" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"  />
 
 ###
 
